@@ -1,0 +1,2 @@
+# nora_project
+norra
